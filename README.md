@@ -13,7 +13,7 @@
 
 👨‍🎓 I'm studying Computer Science at UFSCar - Sorocaba.
 
-💼 I'm CEO at @GR Bussiness.
+💼 I'm CEO at @GR Business.
 
 👨‍💻 I'm fullstack and game developer.
 
