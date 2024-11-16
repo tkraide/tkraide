@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=1578c2&center=true&vCenter=true&random=false&width=1000&lines=Hello+there+%F0%9F%91%8B;I'm+Thiago+Kraide)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tkraide&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tkraide&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkraide&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkraide&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 ## **📋 Basic Informations** </br>
