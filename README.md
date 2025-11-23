@@ -13,8 +13,6 @@
 
 👨‍🎓 I'm studying Computer Science at UFSCar - Sorocaba.
 
-💼 I'm CEO at @GR Business.
-
 👨‍💻 I'm fullstack and game developer.
 
 📖 I’m currently learning Machine Learning and Data Science.
